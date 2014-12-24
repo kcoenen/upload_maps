@@ -1,0 +1,12 @@
+#DB credentials
+dbhost = 
+dbname = 
+dbuser = 
+dbpw = 
+
+#google credentials
+googleemail = 
+googlepw = 
+workbook= 
+
+location=
